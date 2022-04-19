@@ -4,3 +4,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
 
 > Site simples, totalmente feito em HTML para testar conhecimentos básicos da linguagem de marcação.
+
+<img src="prints/index.png">
+<img src="prints/contato.png">
+<img src="prints/quemsomos.png">
